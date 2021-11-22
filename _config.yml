@@ -54,11 +54,11 @@ gitlab_username: # your GitLab user name
 twitter_username: passjustory # your Twitter handle
 linkedin_username: fardad-dadboud-50766ab9 # your LinkedIn user name
 scholar_userid: ZztEI20AAAAJ # your Google Scholar ID
-orcid_id: 0000-0001-6157-3046 # your ORCID ID
+orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-research_gate_profile: Fardad-Dadboud # your profile on ResearchGate
+research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 work_url: https://uniweb.uottawa.ca/members/4847 # work page URL
 keybase_username: # your keybase user name
@@ -69,8 +69,7 @@ stackoverflow_id: #your stackoverflow id
 rss_icon: true
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
-
+  
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
