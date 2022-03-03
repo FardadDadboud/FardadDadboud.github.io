@@ -23,7 +23,8 @@ I am interested in Computer Vision, Deep Learning, and Machine Learning fields a
 
 Previously, I obtained a M.Sc of Biomedical Engineering in the Electrical Engineering department at the Sharif University of Technology (SUT). I have also a B.Sc. of Electical Engineering at the Babol Noshirvani University of Technology.
 
-[\[Curriculum vitae\]](assets/Fardad_Dadboud_Resume_12-02-2022-17-17-50.pdf)
+<a href="assets/Fardad_Dadboud_Resume_12-02-2022-17-17-50.pdf" target="_blank">\[Curriculum vitae\]</a>
+
 
 Current Interests
 ----
