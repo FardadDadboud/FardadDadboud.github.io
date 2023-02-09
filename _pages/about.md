@@ -33,4 +33,4 @@ Current Interests
 - Meta Learning
 - Domain Adaptation/Generalization
 - Semi/Weakly/Self-Supervised Learning
-- Uncertaintu Evaluation
+- Uncertainty Evaluation
