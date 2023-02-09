@@ -17,11 +17,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. student in the <a href="https://engineering.uottawa.ca/school-EECS" target="_blank">School of Electrical Engineering and Computer Science (SEECS)</a> at the University of Ottawa (UOttawa). I am also a Volunteer Visitor at the <a href="https://nrc.canada.ca/en" target="_blank">National Research Council Canada (NRC)</a>. I am working under the supervision of <a href="https://engineering.uottawa.ca/people/bolic-miodrag" target="_blank">Professor Miodrag Bolic</a> from UOttawa and <a href="http://www.linkedin.com/in/iraj-mantegh" target="_blank">Dr. Iraj Mantegh</a> from NRC.
+Right now, I am a Ph.D. candidate in the University of Ottawa's <a href="https://engineering.uottawa.ca/school-EECS" target="_blank">School of Electrical Engineering and Computer Science (SEECS)</a>. In addition to my academic work, I spend time each week as a Volunteer Visitor at Canada's <a href="https://nrc.canada.ca/en" target="_blank">National Research Council (NRC)</a>. <a href="https://engineering.uottawa.ca/people/bolic-miodrag" target="_blank">Professor Miodrag Bolic</a> at the University of Ottawa and <a href="http://www.linkedin.com/in/iraj-mantegh" target="_blank">Dr. Iraj Mantegh</a> at the National Research Council of Canada are supervising my research.
 
-I am interested in Computer Vision, Deep Learning, and Machine Learning fields and their applications in Autonomous Vehicles. Now, I am dealing with moving objects detection and tracking in videos. I am also curious about Self-Supervised Learning and Explainable Artificial Intelligence (XAI).
+My research interests lie in the intersection of computer vision, deep learning, and machine learning as they pertain to autonomous vehicles. Right now I'm focusing on video object detection and tracking. The concept of Meta-Learning fascinates me as well.
 
-Previously, I obtained a M.Sc of Biomedical Engineering in the Electrical Engineering department at the Sharif University of Technology (SUT). I have also a B.Sc. of Electical Engineering at the Babol Noshirvani University of Technology.
+Previously, I attended Sharif University of Technology's Electrical Engineering department to earn a Master of Science in Biomedical Engineering. Additionally, I earned a Bachelor of Science in Electrical Engineering from Babol Noshirvani University of Technology.
 
 <a href="assets/Fardad_Dadboud_Resume_20-11-2022-18-18-06.pdf" target="_blank">\[Curriculum vitae\]</a>
 
@@ -30,6 +30,7 @@ Current Interests
 ----
 
 - Object Detection and Tracking
-- Video Understanding
+- Meta Learning
+- Domain Adaptation/Generalization
 - Semi/Weakly/Self-Supervised Learning
-- XAI
+- Uncertaintu Evaluation
