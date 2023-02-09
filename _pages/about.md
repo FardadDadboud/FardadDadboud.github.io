@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-description: PhD Student and RA/TA, <a href="https://www2.uottawa.ca/en" target="_blank">University of Ottawa</a>
+description: PhD Candidate and RA/TA, <a href="https://www2.uottawa.ca/en" target="_blank">University of Ottawa</a>
 
 profile:
   align: right
   image: fardad.jpeg
   address: >
-    <p>Room 5130, SITE Building</p>
+    <p>Room 5004, SITE Building</p>
     <p>800 King Edward</p>
     <p>Ottawa, Ontario, Canada, K1N 6N5</p>
 
