@@ -29,8 +29,9 @@ Previously, I attended Sharif University of Technology's Electrical Engineering 
 Current Interests
 ----
 
-- Object Detection and Tracking
 - Meta Learning
 - Domain Adaptation/Generalization
 - Semi/Weakly/Self-Supervised Learning
+- Video Understanding
+- Object Detection and Tracking
 - Uncertainty Evaluation
