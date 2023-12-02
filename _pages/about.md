@@ -23,7 +23,7 @@ My research interests lie in the intersection of computer vision, deep learning,
 
 Previously, I attended Sharif University of Technology's Electrical Engineering department to earn a Master of Science in Biomedical Engineering. Additionally, I earned a Bachelor of Science in Electrical Engineering from Babol Noshirvani University of Technology.
 
-<a href="assets/Fardad_Dadboud_Resume_07-06-2023-16-48-31.pdf" target="_blank">\[Curriculum vitae\]</a>
+<a href="assets/Fardad-Dadboud-Resume-20231202.pdf" target="_blank">\[Curriculum vitae\]</a>
 
 
 Current Interests
