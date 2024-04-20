@@ -15,5 +15,6 @@ group :jekyll_plugins do
     gem 'jemoji'
     gem 'unicode_utils'
     gem 'webrick'
-    gem 'uri', '~> 0.13.0'
+    gem 'bundler', '>= 2.2.22'
+    #gem 'uri', '~> 0.13.0'
 end
