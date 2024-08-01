@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD Candidate and RA/TA, <a href="https://www2.uottawa.ca/en" target="_blank">University of Ottawa</a>
 
 profile:
   align: right
