@@ -17,9 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Currently, I am a Ph.D. candidate at the University of Ottawa's <a href="https://engineering.uottawa.ca/school-EECS" target="_blank">School of Electrical Engineering and Computer Science (SEECS)</a>. In addition to my academic pursuits, I volunteer as a Visitor at Canada's <a href="https://nrc.canada.ca/en" target="_blank">National Research Council (NRC)</a>. My research is supervised by <a href="https://engineering.uottawa.ca/people/bolic-miodrag" target="_blank">Professor Miodrag Bolic</a> at the University of Ottawa and <a href="http://www.linkedin.com/in/iraj-mantegh" target="_blank">Dr. Iraj Mantegh</a> at the National Research Council of Canada.
+Currently, I am a Ph.D. candidate at the University of Ottawa's <a href="https://engineering.uottawa.ca/school-EECS" target="_blank">School of Electrical Engineering and Computer Science (SEECS)</a>. In addition to my academic pursuits, I volunteer as a Visitor at Canada's <a href="https://nrc.canada.ca/en" target="_blank">National Research Council (NRC)</a>. My research is supervised by <a href="https://engineering.uottawa.ca/people/bolic-miodrag" target="_blank">Professor Miodrag Bolic</a> at the University of Ottawa.
 
-My research interests lie at the intersection of computer vision, deep learning, and machine learning, with a specific focus on autonomous vehicles. Currently, I'm delving into video object detection and tracking, and I'm particularly fascinated by the concept of Meta-Learning.
+My research interests lie at the intersection of computer vision, deep learning, and machine learning, with a specific focus on autonomous vehicles. Currently, I'm deeply engaged in addressing challenges related to domain shift, out-of-distribution detection, and unsupervised or test-time domain adaptation.
 
 I hold a Master of Science in Biomedical Engineering from Sharif University of Technology and a Bachelor of Science in Electrical Engineering from Babol Noshirvani University of Technology.
 
