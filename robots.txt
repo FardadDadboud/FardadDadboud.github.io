@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://fardaddadboud.github.io//al-folio/sitemap.xml
+Sitemap: https://fardaddadboud.github.io//sitemap.xml
