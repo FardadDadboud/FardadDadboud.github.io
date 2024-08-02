@@ -6,7 +6,7 @@ subtitle: PhD Candidate and RA/TA, <a href="https://www2.uottawa.ca/en" target="
 
 profile:
   align: right
-  image: fardad.jpeg
+  image: fardad.jpg
   address: >
     <p>Room 5004, SITE Building</p>
     <p>800 King Edward</p>
