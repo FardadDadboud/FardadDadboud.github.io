@@ -24,7 +24,7 @@ My research interests lie at the intersection of computer vision, deep learning,
 
 I hold a Master of Science in Biomedical Engineering from Sharif University of Technology and a Bachelor of Science in Electrical Engineering from Babol Noshirvani University of Technology.
 
-<a href="../assets/Fardad-Dadboud-FlowCV-Resume-20241031.pdf" target="_blank">[Curriculum Vitae]</a>
+<a href="../assets/Fardad-Dadboud-FlowCV-Resume-20250121 (1).pdf" target="_blank">[Curriculum Vitae]</a>
 
 ## Current Interests
 
