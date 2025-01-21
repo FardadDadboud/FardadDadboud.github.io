@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Candidate and RA/TA, <a href="https://www2.uottawa.ca/en" target="_blank">University of Ottawa</a>
+subtitle: AI Researcher and Developer
 
 profile:
   align: right
